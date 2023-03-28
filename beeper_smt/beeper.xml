@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/david/KiCad/projects/beeper/beeper.kicad_sch</source>
+    <date>Thu 23 Mar 2023 12:14:58 AM CDT</date>
+    <tool>Eeschema (6.0.11)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>beeper.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BZ0">
+      <value>F/QMBIII</value>
+      <footprint>beeper:F_QMBIII</footprint>
+      <libsource lib="beeper-eagle-import" part="F{slash}QMBIII" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7acdf55a-bf6b-4c00-aef2-eef1f8edeecf</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1.44uF</value>
+      <footprint>beeper:C2.5-3</footprint>
+      <libsource lib="beeper-eagle-import" part="C2,5-3" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df8398ed-f36c-4980-a0f9-13b3601a4775</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1.82nF</value>
+      <footprint>beeper:C2.5-3</footprint>
+      <libsource lib="beeper-eagle-import" part="C2,5-3" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6a0200-dc52-47c4-b509-5c6dd260fa90</tstamps>
+    </comp>
+    <comp ref="GND0">
+      <value>SMD2</value>
+      <footprint>beeper:SMD1,27-2,54</footprint>
+      <libsource lib="beeper-eagle-import" part="SMD2" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97a62d6c-f6dd-4d28-87a2-6f6a94eaa313</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>RED</value>
+      <footprint>beeper:LED3MM</footprint>
+      <libsource lib="beeper-eagle-import" part="TLLR4400" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>496c8e3b-dc1b-4730-8e0c-eff24995b1d8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <footprint>beeper:0204_7</footprint>
+      <libsource lib="beeper-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c790ec-383d-4f42-ad71-7a20c555bb28</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>beeper:0204_7</footprint>
+      <libsource lib="beeper-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5692d8c4-8c46-46fd-bd6e-2dc1c1e50f3f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>beeper:0204_7</footprint>
+      <libsource lib="beeper-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d144b7-cd4c-4583-9044-3134ba5a808e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>beeper:0204_7</footprint>
+      <libsource lib="beeper-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40dec6e4-b342-48b0-9971-e7b23ec0727f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>SPEED</value>
+      <footprint>beeper:TO250P760H635-3_PV12P105A01B00</footprint>
+      <libsource lib="beeper-eagle-import" part="PV12P105A01B00" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d4cbc82-cbfb-48b7-beab-4bd73259b82b</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>TONE</value>
+      <footprint>beeper:TO250P760H635-3_PV12P105A01B00</footprint>
+      <libsource lib="beeper-eagle-import" part="PV12P105A01B00" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e895a63b-7f54-4e9d-b18a-8879368faf39</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CD4011BE</value>
+      <footprint>beeper:DIP794W45P254L1969H508Q14</footprint>
+      <libsource lib="beeper-eagle-import" part="CD4011BE" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935c7260-45ff-4596-8293-b53c059a7e98</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LMC555CN</value>
+      <footprint>beeper:DIP794W45P254L959H508Q8</footprint>
+      <libsource lib="beeper-eagle-import" part="LMC555CN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>392e7667-7f98-46a5-879e-1e0103ce0532</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LMC555CN</value>
+      <footprint>beeper:DIP794W45P254L959H508Q8</footprint>
+      <libsource lib="beeper-eagle-import" part="LMC555CN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>662796c8-779e-44ba-aace-76cac3066642</tstamps>
+    </comp>
+    <comp ref="VCC0">
+      <value>SMD2</value>
+      <footprint>beeper:SMD1,27-2,54</footprint>
+      <libsource lib="beeper-eagle-import" part="SMD2" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="beeper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c969034b-b876-43ca-aa04-23f9c9cdd578</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="beeper-eagle-import" part="C2,5-3">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C2,5-3</field>
+        <field name="Footprint">beeper:C2.5-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="CD4011BE">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD4011BE</field>
+        <field name="Footprint">beeper:DIP794W45P254L1969H508Q14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="J" type="output"/>
+        <pin num="4" name="K" type="output"/>
+        <pin num="5" name="C" type="input"/>
+        <pin num="6" name="D" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="E" type="input"/>
+        <pin num="9" name="F" type="input"/>
+        <pin num="10" name="L" type="output"/>
+        <pin num="11" name="M" type="output"/>
+        <pin num="12" name="G" type="input"/>
+        <pin num="13" name="H" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="F{slash}QMBIII">
+      <fields>
+        <field name="Reference">SG</field>
+        <field name="Value">F{slash}QMBIII</field>
+        <field name="Footprint">beeper:F_QMBIII</field>
+      </fields>
+      <pins>
+        <pin num="+" name="-" type="passive"/>
+        <pin num="-" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="LMC555CN">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMC555CN</field>
+        <field name="Footprint">beeper:DIP794W45P254L959H508Q8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TRIGGER" type="input"/>
+        <pin num="3" name="OUTPUT" type="output"/>
+        <pin num="4" name="RESET" type="input"/>
+        <pin num="5" name="CONTROL_VOLTAGE" type="input"/>
+        <pin num="6" name="THRESHOLD" type="input"/>
+        <pin num="7" name="DISCHARGE" type="input"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="PV12P105A01B00">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">PV12P105A01B00</field>
+        <field name="Footprint">beeper:TO250P760H635-3_PV12P105A01B00</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="R-US_0204{slash}7">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_0204{slash}7</field>
+        <field name="Footprint">beeper:0204_7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="SMD2">
+      <fields>
+        <field name="Reference">PAD</field>
+        <field name="Value">SMD2</field>
+        <field name="Footprint">beeper:SMD1,27-2,54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="beeper-eagle-import" part="TLLR4400">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">TLLR4400</field>
+        <field name="Footprint">beeper:LED3MM</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="K" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="beeper-eagle-import">
+      <uri>/home/david/KiCad/projects/beeper/beeper-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="GND0" pin="1" pinfunction="P" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="Net-(BZ0-Pad-)">
+      <node ref="BZ0" pin="-" pinfunction="+" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="K" pintype="output"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="TRIGGER" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="THRESHOLD" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="TRIGGER" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="THRESHOLD" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(LED1-PadA)">
+      <node ref="LED1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="OUTPUT" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(LED1-PadK)">
+      <node ref="LED1" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="DISCHARGE" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="DISCHARGE" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="OUTPUT" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="J" pintype="output"/>
+      <node ref="U1" pin="5" pinfunction="C" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="11" name="VCC">
+      <node ref="BZ0" pin="+" pinfunction="-" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="RESET" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="RESET" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="VCC0" pin="1" pinfunction="P" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="13" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="F" pintype="input"/>
+    </net>
+    <net code="14" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="L" pintype="output"/>
+    </net>
+    <net code="15" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="M" pintype="output"/>
+    </net>
+    <net code="16" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="17" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="H" pintype="input"/>
+    </net>
+    <net code="18" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="CONTROL_VOLTAGE" pintype="input"/>
+    </net>
+    <net code="19" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="CONTROL_VOLTAGE" pintype="input"/>
+    </net>
+  </nets>
+</export>
